@@ -44,3 +44,9 @@ def your_interesting_demographic_function(counties):
 
 if __name__ == '__main__':
     main()
+
+    #make an empty list
+    #for each county in the list of counties:
+    #   If the county's median household income is >$90,000:
+    #       append the county's name to the list
+    #return the list
